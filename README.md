@@ -1,0 +1,1 @@
+For this class we had to build a database, clean data, and analyze data using PostgreSQL. The class began on Azure but due to technical problems some students had the last half was completed in pgAdmin. The data was used to decide if a larger buisness should aquire a niche mountain bike dealer.
