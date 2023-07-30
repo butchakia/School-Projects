@@ -1,0 +1,88 @@
+---
+title: "Project 7"
+author: "Jeff Boczkaja"
+date: "2023-03-01"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## House Pricing Data
+```{r kc_house_data, echo=FALSE}
+kc_house_data <- read.csv("C:/Users/whitl/OneDrive/Desktop/R Files/kc_house_data.csv")
+
+```
+
+
+-The Minimum house price is `r min(kc_house_data$price)`
+
+-The Maximum house price is `r max(kc_house_data$price)`
+
+-The average house is `r mean(kc_house_data$price)`
+
+-The range of house prices is `r range(kc_house_data$price)`
+
+-The median price of houses is `r median(kc_house_data$price)`
+
+-The standard deviation of house prices is `r sd(kc_house_data$price)`
+
+## Histogram of Prices
+
+```{r histogram, echo=FALSE}
+library(ggplot2)
+ggplot(data=kc_house_data, aes(x=price))+geom_histogram(bins=30)+ggtitle("Histogram of House Price")+xlab("Price")+ylab("Number")
+
+```
+
+
+## View and Price Boxplot
+
+```{r boxplot, echo=FALSE}
+kc_house_data$view <- as.character(kc_house_data$view)
+ggplot(data=kc_house_data, aes(x=view, y=price))+
+geom_boxplot(notch=TRUE)
+```
+
+## Scatterplot of Price and Sqaure Feet Living
+
+```{r scatterplot, echo=FALSE}
+ggplot(kc_house_data, aes(x=price, y=sqft_living)) + geom_point(shape=2) 
+```
+
+## First Price Model
+```{r Price 1, echo=FALSE}
+library(knitr)
+Price1 <- lm(price~bedrooms+bathrooms+sqft_living, data=kc_house_data)
+my.table = as.data.frame(Price1$coefficients)
+kable(my.table, caption = 'Price 1 Model')
+```
+The adjusted r squared for model 1 is `r summary(Price1)$adj.r.squared`
+
+## Second Price Model
+```{r price2, echo=FALSE}
+library(knitr)
+Price2 <- lm(price~bedrooms*bathrooms*sqft_living, data=kc_house_data)
+my.table = as.data.frame(Price2$coefficients)
+kable(my.table, caption = 'Price Model 2')
+```
+The adjusted r squared for model 2 is `r summary(Price2)$adj.r.squared`
+
+## Third Price Model
+```{r price3, echo=FALSE}
+library(knitr)
+kc_house_data$waterfront <- as.factor(kc_house_data$waterfront)
+kc_house_data$grade <- as.factor(kc_house_data$grade)
+Price3 <- lm(price~bedrooms+bathrooms+sqft_living+waterfront+grade, data=kc_house_data)
+my.table = as.data.frame(Price3$coefficients)
+kable(my.table, caption = 'Price Model 3')
+```
+The adjusted r squared for model 3 is `r summary(Price3)$adj.r.squared`
+
+### We would reccomend the third price model.
+
+
