@@ -1,0 +1,1 @@
+This class involved using many different aspects in Python from Pandas to Scikit to NumPy and more. This was done in homeworks and larger projects. The data used in the assignments is available as well.
