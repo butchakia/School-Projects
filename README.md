@@ -1,1 +1,1 @@
-These are various projects I have completed throughout my master's degree program at Maryville University. Check out the branches for specific classes or programs!
+These are various projects I have completed throughout my master's degree program at Maryville University. Check out the branches for specific classes or programs! I have taken R, Python, SQL, Predictive Modeling, Math Modeling, Probability, and Machine Learning. This semester I'm taking SAS, Text Mining, Big Data Analytics, Deep Learning, and completing my capstone project.
