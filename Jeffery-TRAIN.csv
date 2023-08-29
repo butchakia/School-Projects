@@ -1,0 +1,1000 @@
+ID,gender,Management,USAcitizen,Married,MonthsInUnion,ContinuingEd,FeatureA,Connectivity,FeatureC,FeatureD,FeatureE,FeatureF,FeatureG,FeatureB,DuesFrequency,PaperlessBilling,PaymentMethod,MonthlyDues,TotalDues,LeftUnion
+Jeffery1,Female,0,No,No,12,No,Maryville,DSL,Yes,No,No,Yes,No,No,One year,Yes,Mailed check,34,435,No
+Jeffery2,Male,0,Yes,No,50,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Electronic check,20,1013,No
+Jeffery3,Female,1,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,One year,Yes,Bank transfer (automatic),107,7677,No
+Jeffery4,Male,0,Yes,Yes,70,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,25,1782,No
+Jeffery5,Male,0,No,No,3,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,25,67,Yes
+Jeffery6,Male,0,No,No,20,Yes,No,DSL,Yes,No,Yes,No,No,Yes,Month-to-month,No,Credit card (automatic),64,1399,No
+Jeffery7,Female,0,No,No,23,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),25,615,No
+Jeffery8,Female,0,Yes,Yes,53,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Bank transfer (automatic),20,1039,No
+Jeffery9,Male,0,Yes,No,47,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,One year,Yes,Credit card (automatic),95,4563,No
+Jeffery10,Male,1,No,No,70,No,Maryville,DSL,No,Yes,Yes,No,Yes,No,One year,Yes,Credit card (automatic),44,3012,No
+Jeffery11,Male,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,20,No
+Jeffery12,Male,0,No,No,11,Yes,No,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,No,Electronic check,85,889,No
+Jeffery13,Male,0,No,No,24,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Mailed check,90,2165,Yes
+Jeffery14,Male,0,No,No,1,Yes,No,DSL,Yes,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,54,54,Yes
+Jeffery15,Female,0,No,No,9,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,88,789,No
+Jeffery16,Male,0,Yes,Yes,17,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Bank transfer (automatic),20,330,No
+Jeffery17,Female,0,No,No,9,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,45,416,Yes
+Jeffery18,Female,0,Yes,No,15,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,88,1391,Yes
+Jeffery19,Female,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,20,Yes
+Jeffery20,Female,0,No,No,61,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Electronic check,90,5309,No
+Jeffery21,Male,0,No,No,22,Yes,Yes,DSL,Yes,Yes,Yes,No,No,No,Month-to-month,No,Mailed check,65,1428,No
+Jeffery22,Female,0,No,No,23,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,470,No
+Jeffery23,Male,0,Yes,Yes,4,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),85,372,Yes
+Jeffery24,Female,0,No,No,14,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),71,914,Yes
+Jeffery25,Female,0,Yes,Yes,43,No,Maryville,DSL,Yes,Yes,No,Yes,Yes,No,One year,Yes,Bank transfer (automatic),51,2152,No
+Jeffery26,Female,0,No,No,29,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),76,2215,No
+Jeffery27,Male,0,No,No,43,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),26,1110,No
+Jeffery28,Male,0,Yes,Yes,9,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,197,No
+Jeffery29,Male,0,No,Yes,53,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),20,1052,Yes
+Jeffery30,Male,0,Yes,No,63,Yes,Yes,DSL,No,Yes,No,Yes,No,Yes,Two year,No,Mailed check,67,4234,No
+Jeffery31,Female,0,Yes,Yes,72,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Bank transfer (automatic),24,1709,No
+Jeffery32,Female,0,No,No,40,Yes,No,DSL,Yes,Yes,No,No,Yes,No,Month-to-month,No,Mailed check,65,2586,No
+Jeffery33,Female,0,Yes,No,55,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),94,5073,No
+Jeffery34,Male,0,Yes,Yes,15,Yes,No,DSL,No,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Mailed check,70,1071,No
+Jeffery35,Male,0,No,Yes,28,Yes,No,DSL,No,Yes,No,Yes,No,No,One year,Yes,Credit card (automatic),54,1517,No
+Jeffery36,Female,1,No,No,2,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,24,42,Yes
+Jeffery37,Female,0,Yes,Yes,21,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,103,2110,Yes
+Jeffery38,Female,0,Yes,No,47,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,99,4534,Yes
+Jeffery39,Male,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,20,Yes
+Jeffery40,Male,0,Yes,No,42,Yes,Yes,DSL,Yes,No,No,No,No,No,One year,No,Credit card (automatic),56,2387,No
+Jeffery41,Female,0,Yes,Yes,50,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,One year,No,Mailed check,103,5154,No
+Jeffery42,Female,0,Yes,Yes,49,No,Maryville,DSL,Yes,No,No,Yes,No,No,One year,Yes,Credit card (automatic),36,1782,No
+Jeffery43,Male,0,No,No,13,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,932,No
+Jeffery44,Male,0,Yes,Yes,41,Yes,No,DSL,Yes,Yes,Yes,No,No,No,One year,Yes,Bank transfer (automatic),60,2511,No
+Jeffery45,Male,1,Yes,No,55,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,114,6293,No
+Jeffery46,Female,1,No,No,18,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,74,1359,No
+Jeffery47,Male,1,No,No,29,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),101,2949,No
+Jeffery48,Male,0,No,No,5,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,24,100,No
+Jeffery49,Male,1,No,No,12,Yes,No,Fiber optic,No,Yes,Yes,Yes,No,No,Month-to-month,Yes,Mailed check,84,1030,Yes
+Jeffery50,Male,0,No,No,11,Yes,No,DSL,No,Yes,No,No,Yes,No,One year,Yes,Electronic check,61,730,No
+Jeffery51,Male,0,No,No,57,No,Maryville,DSL,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,54,3196,No
+Jeffery52,Male,0,No,No,46,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Electronic check,109,4903,No
+Jeffery53,Female,0,No,Yes,10,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,91,964,No
+Jeffery54,Male,0,Yes,Yes,52,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,26,1346,No
+Jeffery55,Male,0,Yes,No,56,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,One year,No,Credit card (automatic),100,5614,Yes
+Jeffery56,Female,0,Yes,No,8,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),85,627,Yes
+Jeffery57,Male,0,Yes,Yes,34,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),20,679,No
+Jeffery58,Female,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,46,46,Yes
+Jeffery59,Male,1,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,44,44,No
+Jeffery60,Male,0,No,No,30,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),84,2439,No
+Jeffery61,Male,1,Yes,No,44,No,Maryville,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,30,1360,Yes
+Jeffery62,Male,0,Yes,Yes,71,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Credit card (automatic),100,7209,No
+Jeffery63,Male,0,Yes,Yes,2,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,36,Yes
+Jeffery64,Female,0,Yes,Yes,26,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,91,2362,Yes
+Jeffery65,Female,0,Yes,No,69,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Credit card (automatic),25,1718,No
+Jeffery66,Male,0,No,No,13,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),19,260,No
+Jeffery67,Male,0,No,No,24,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,80,1862,Yes
+Jeffery68,Female,0,Yes,No,16,No,Maryville,DSL,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,50,810,Yes
+Jeffery69,Male,0,No,No,30,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),94,2680,No
+Jeffery70,Female,0,Yes,Yes,55,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),104,5657,No
+Jeffery71,Female,0,Yes,Yes,69,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),20,1375,No
+Jeffery72,Male,0,Yes,No,65,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,91,5931,No
+Jeffery73,Female,0,Yes,Yes,52,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),20,1012,No
+Jeffery74,Female,1,Yes,No,27,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),75,1929,Yes
+Jeffery75,Female,0,Yes,Yes,35,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Electronic check,26,883,No
+Jeffery76,Female,1,Yes,No,60,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,No,Electronic check,89,5295,No
+Jeffery77,Male,1,Yes,No,64,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,One year,No,Credit card (automatic),80,5018,No
+Jeffery78,Male,0,No,No,25,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),20,511,No
+Jeffery79,Female,0,No,No,68,Yes,Yes,DSL,Yes,No,No,No,No,No,Month-to-month,No,Mailed check,54,3688,No
+Jeffery80,Male,1,No,No,24,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Credit card (automatic),70,1733,No
+Jeffery81,Male,0,Yes,Yes,67,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),25,1620,No
+Jeffery82,Male,0,No,No,39,Yes,Yes,DSL,No,No,No,Yes,No,No,Two year,Yes,Credit card (automatic),54,2201,No
+Jeffery83,Male,0,Yes,Yes,54,Yes,Yes,DSL,No,Yes,No,Yes,Yes,No,One year,Yes,Electronic check,71,3770,No
+Jeffery84,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,46,46,Yes
+Jeffery85,Male,0,No,No,51,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,One year,Yes,Credit card (automatic),81,4126,No
+Jeffery86,Female,0,Yes,No,68,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,No,Two year,No,Credit card (automatic),90,6298,No
+Jeffery87,Male,0,No,No,40,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,Yes,Mailed check,62,2647,No
+Jeffery88,Female,1,No,No,4,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74,294,No
+Jeffery89,Male,0,Yes,No,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),90,6369,No
+Jeffery90,Male,0,No,No,7,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,521,No
+Jeffery91,Male,0,No,No,33,Yes,No,DSL,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),66,2245,No
+Jeffery92,Male,1,No,No,1,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,89,89,Yes
+Jeffery93,Male,0,No,No,23,Yes,No,DSL,No,No,No,No,Yes,Yes,One year,Yes,Bank transfer (automatic),65,1510,No
+Jeffery94,Male,1,No,No,3,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,80,261,Yes
+Jeffery95,Female,1,Yes,Yes,29,No,Maryville,DSL,No,Yes,Yes,No,No,No,Month-to-month,Yes,Mailed check,36,1025,No
+Jeffery96,Male,0,Yes,No,34,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,100,3480,Yes
+Jeffery97,Female,0,No,No,45,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),82,3619,No
+Jeffery98,Male,0,No,No,1,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,76,76,No
+Jeffery99,Female,0,No,No,15,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),84,1303,No
+Jeffery100,Male,0,No,No,4,Yes,No,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,90,357,No
+Jeffery101,Female,0,Yes,Yes,31,Yes,Yes,DSL,No,Yes,No,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),81,2472,No
+Jeffery102,Male,0,Yes,Yes,25,Yes,No,DSL,Yes,Yes,Yes,No,No,No,One year,Yes,Bank transfer (automatic),62,1611,No
+Jeffery103,Female,0,No,No,13,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,19,279,No
+Jeffery104,Female,1,No,No,7,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,84,610,No
+Jeffery105,Female,1,Yes,No,69,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Two year,No,Credit card (automatic),105,6999,No
+Jeffery106,Male,1,No,No,39,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),96,3759,Yes
+Jeffery107,Male,1,Yes,No,70,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),89,6307,No
+Jeffery108,Male,0,Yes,Yes,13,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,252,No
+Jeffery109,Female,0,Yes,Yes,72,Yes,Yes,DSL,No,No,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),77,5468,No
+Jeffery110,Male,0,No,No,27,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,470,No
+Jeffery111,Male,0,Yes,No,8,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,158,No
+Jeffery112,Female,0,Yes,Yes,42,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Electronic check,19,762,No
+Jeffery113,Female,1,No,No,612,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),768,256,Yes
+Jeffery114,Female,0,No,No,12,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,85,1017,No
+Jeffery115,Female,0,Yes,Yes,24,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,534,No
+Jeffery116,Male,0,No,No,26,Yes,Yes,DSL,Yes,Yes,No,No,No,No,One year,No,Electronic check,62,1582,No
+Jeffery117,Male,1,No,No,17,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,102,1752,No
+Jeffery118,Female,0,Yes,Yes,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,70,147,Yes
+Jeffery119,Male,0,No,No,28,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),95,2659,Yes
+Jeffery120,Male,0,No,No,21,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,416,No
+Jeffery121,Female,0,No,No,53,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,Two year,No,Mailed check,100,5424,No
+Jeffery122,Male,0,Yes,No,49,Yes,Yes,DSL,Yes,No,No,No,No,No,One year,Yes,Electronic check,55,2634,No
+Jeffery123,Female,0,Yes,Yes,23,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),77,1759,No
+Jeffery124,Male,0,No,No,12,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,81,912,No
+Jeffery125,Female,0,Yes,Yes,52,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,No,Bank transfer (automatic),101,5301,No
+Jeffery126,Male,0,No,No,67,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),21,1431,No
+Jeffery127,Male,1,No,No,9,Yes,Yes,DSL,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,55,494,Yes
+Jeffery128,Female,0,Yes,Yes,52,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Electronic check,20,1091,No
+Jeffery129,Male,0,Yes,Yes,58,No,Maryville,DSL,Yes,Yes,Yes,No,Yes,No,One year,No,Mailed check,50,2920,No
+Jeffery130,Female,1,No,No,71,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,90,6293,No
+Jeffery131,Male,0,Yes,Yes,20,No,Maryville,DSL,Yes,No,Yes,Yes,No,No,Two year,Yes,Credit card (automatic),39,825,No
+Jeffery132,Male,1,Yes,Yes,68,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Bank transfer (automatic),20,1194,No
+Jeffery133,Male,0,Yes,No,2,Yes,No,DSL,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Mailed check,64,144,No
+Jeffery134,Male,0,No,No,8,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Credit card (automatic),20,162,No
+Jeffery135,Male,0,Yes,Yes,71,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,19,1378,No
+Jeffery136,Female,0,Yes,Yes,11,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,21,234,No
+Jeffery137,Female,0,No,No,29,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,79,2384,Yes
+Jeffery138,Female,0,No,No,72,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),108,7854,No
+Jeffery139,Female,0,No,No,10,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Electronic check,21,223,No
+Jeffery140,Female,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,44,44,No
+Jeffery141,Male,1,Yes,No,10,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,75,720,No
+Jeffery142,Female,0,Yes,Yes,22,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),25,555,No
+Jeffery143,Male,1,No,No,65,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),99,6496,No
+Jeffery144,Female,1,Yes,Yes,46,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,110,4972,No
+Jeffery145,Male,0,No,No,46,No,Maryville,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),61,2893,No
+Jeffery146,Female,0,No,No,8,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),80,625,No
+Jeffery147,Male,0,Yes,No,65,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,104,6813,No
+Jeffery148,Male,0,Yes,Yes,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,46,46,Yes
+Jeffery149,Female,1,No,No,7,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,48,340,No
+Jeffery150,Male,0,Yes,Yes,35,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,655,No
+Jeffery151,Female,0,No,No,23,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),99,2249,No
+Jeffery152,Male,0,Yes,Yes,8,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),20,154,No
+Jeffery153,Male,0,No,No,8,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,44,335,No
+Jeffery154,Male,0,Yes,No,66,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),92,6076,No
+Jeffery155,Female,0,Yes,Yes,7,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,25,149,No
+Jeffery156,Male,0,Yes,No,36,No,Maryville,DSL,Yes,No,Yes,No,No,No,One year,No,Mailed check,35,1318,No
+Jeffery157,Male,0,No,No,2,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,82,185,Yes
+Jeffery158,Male,0,Yes,Yes,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),115,8306,No
+Jeffery159,Male,0,No,No,69,No,Maryville,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),60,4177,No
+Jeffery160,Male,0,Yes,No,67,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),26,1785,No
+Jeffery161,Female,0,Yes,No,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),91,6638,No
+Jeffery162,Male,0,No,Yes,39,No,Maryville,DSL,Yes,No,No,Yes,Yes,No,One year,No,Bank transfer (automatic),45,1791,No
+Jeffery163,Male,0,Yes,No,17,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),81,1337,No
+Jeffery164,Female,0,Yes,Yes,68,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,One year,Yes,Electronic check,78,5333,No
+Jeffery165,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,55,55,Yes
+Jeffery166,Male,0,No,Yes,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,19,19,No
+Jeffery167,Female,0,Yes,No,72,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Two year,No,Bank transfer (automatic),65,4805,No
+Jeffery168,Female,1,No,No,16,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,85,1350,Yes
+Jeffery169,Male,0,Yes,Yes,63,Yes,No,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),80,4896,No
+Jeffery170,Female,0,No,No,8,Yes,No,DSL,Yes,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,60,488,No
+Jeffery171,Female,0,Yes,No,16,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,100,1535,Yes
+Jeffery172,Female,0,Yes,No,9,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,80,769,No
+Jeffery173,Female,0,Yes,No,5,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,70,330,Yes
+Jeffery174,Male,0,Yes,Yes,35,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),90,3162,No
+Jeffery175,Female,0,No,No,8,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),103,847,Yes
+Jeffery176,Female,0,Yes,Yes,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,21,21,Yes
+Jeffery177,Male,0,Yes,No,48,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,19,855,No
+Jeffery178,Female,0,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,77,77,Yes
+Jeffery179,Male,0,No,No,17,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Bank transfer (automatic),20,352,No
+Jeffery180,Male,0,Yes,Yes,69,Yes,No,DSL,Yes,Yes,Yes,No,No,No,Two year,Yes,Bank transfer (automatic),60,4070,No
+Jeffery181,Female,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,46,46,Yes
+Jeffery182,Male,1,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94,94,Yes
+Jeffery183,Female,0,Yes,Yes,50,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),70,3558,No
+Jeffery184,Female,0,Yes,No,68,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,Two year,No,Credit card (automatic),71,4911,No
+Jeffery185,Female,0,Yes,No,49,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Bank transfer (automatic),20,923,No
+Jeffery186,Male,0,Yes,No,66,No,Maryville,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),57,3789,No
+Jeffery187,Female,1,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,70,Yes
+Jeffery188,Female,0,No,No,49,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,Two year,No,Bank transfer (automatic),67,3307,No
+Jeffery189,Female,1,No,No,7,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,51,419,No
+Jeffery190,Female,0,Yes,No,35,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,2417,Yes
+Jeffery191,Male,0,No,No,44,No,Maryville,DSL,No,Yes,Yes,No,Yes,Yes,One year,Yes,Mailed check,54,2375,Yes
+Jeffery192,Female,0,No,No,47,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,106,4849,No
+Jeffery193,Female,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),104,7557,No
+Jeffery194,Female,1,Yes,No,42,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),74,3229,Yes
+Jeffery195,Male,1,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),113,8062,No
+Jeffery196,Female,0,Yes,Yes,28,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,81,2227,Yes
+Jeffery197,Male,0,Yes,No,48,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),111,5315,No
+Jeffery198,Male,0,Yes,Yes,67,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Credit card (automatic),19,1284,No
+Jeffery199,Male,0,Yes,Yes,42,No,Maryville,DSL,No,Yes,Yes,No,No,Yes,One year,Yes,Credit card (automatic),45,2049,No
+Jeffery200,Female,0,Yes,No,71,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),25,1753,No
+Jeffery201,Male,0,No,No,3,Yes,No,Fiber optic,Yes,No,No,No,No,Yes,Month-to-month,Yes,Mailed check,86,245,No
+Jeffery202,Female,0,Yes,Yes,36,No,Maryville,DSL,Yes,No,Yes,Yes,No,No,Two year,No,Credit card (automatic),41,1547,No
+Jeffery203,Male,0,No,No,36,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,85,3067,Yes
+Jeffery204,Male,0,No,No,3,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,70,220,No
+Jeffery205,Male,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,20,Yes
+Jeffery206,Male,0,Yes,Yes,47,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,99,4749,Yes
+Jeffery207,Female,0,Yes,Yes,15,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Electronic check,25,395,No
+Jeffery208,Female,0,No,No,70,No,Maryville,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),58,4214,No
+Jeffery209,Male,0,No,Yes,45,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Two year,No,Bank transfer (automatic),100,4634,No
+Jeffery210,Female,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Electronic check,19,19,Yes
+Jeffery211,Male,0,Yes,Yes,47,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),113,5318,No
+Jeffery212,Male,1,No,No,47,Yes,Yes,DSL,No,Yes,No,Yes,No,No,Two year,No,Bank transfer (automatic),60,2754,No
+Jeffery213,Female,1,Yes,Yes,3,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,No,Month-to-month,Yes,Mailed check,88,274,Yes
+Jeffery214,Female,0,No,No,68,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),82,5647,No
+Jeffery215,Male,0,No,No,6,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69,435,No
+Jeffery216,Male,0,Yes,Yes,68,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,Two year,No,Credit card (automatic),80,5375,No
+Jeffery217,Male,0,No,No,55,Yes,No,DSL,Yes,No,Yes,Yes,No,No,Two year,Yes,Electronic check,59,3176,No
+Jeffery218,Female,0,Yes,Yes,61,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,99,6010,Yes
+Jeffery219,Female,0,Yes,No,19,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,No,Mailed check,90,1761,Yes
+Jeffery220,Female,0,No,No,67,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,26,1760,No
+Jeffery221,Male,0,Yes,Yes,46,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,862,No
+Jeffery222,Female,0,No,No,20,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,44,927,No
+Jeffery223,Male,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),116,8332,No
+Jeffery224,Male,0,No,No,24,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Credit card (automatic),51,1270,No
+Jeffery225,Male,0,Yes,Yes,62,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Bank transfer (automatic),24,1425,No
+Jeffery226,Male,0,Yes,Yes,62,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,No,One year,Yes,Credit card (automatic),95,5792,No
+Jeffery227,Female,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,20,No
+Jeffery228,Male,0,No,Yes,57,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,20,1171,No
+Jeffery229,Female,0,No,No,2,No,Maryville,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,35,62,Yes
+Jeffery230,Female,0,Yes,No,20,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Mailed check,20,416,No
+Jeffery231,Male,1,Yes,No,32,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75,2303,Yes
+Jeffery232,Female,0,Yes,No,51,No,Maryville,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,50,2553,No
+Jeffery233,Female,0,No,No,17,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,84,1329,No
+Jeffery234,Female,0,No,No,5,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Electronic check,20,100,No
+Jeffery235,Female,0,No,No,4,Yes,No,DSL,No,No,No,No,Yes,No,Month-to-month,No,Credit card (automatic),56,227,No
+Jeffery236,Female,0,No,No,37,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,813,No
+Jeffery237,Female,0,No,Yes,5,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Mailed check,51,287,No
+Jeffery238,Male,1,Yes,Yes,64,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),112,7099,No
+Jeffery239,Female,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,20,No
+Jeffery240,Female,0,Yes,No,70,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),86,5950,No
+Jeffery241,Male,0,Yes,No,650,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),10878,3626,No
+Jeffery242,Female,0,No,No,1,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),100,100,Yes
+Jeffery243,Female,1,Yes,No,64,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,No,Bank transfer (automatic),97,6431,No
+Jeffery244,Female,0,No,No,21,Yes,No,DSL,Yes,No,Yes,Yes,No,No,One year,Yes,Electronic check,60,1258,No
+Jeffery245,Male,1,Yes,No,52,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),105,5376,No
+Jeffery246,Male,0,Yes,No,53,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,Yes,One year,No,Bank transfer (automatic),98,5043,No
+Jeffery247,Female,0,Yes,Yes,10,Yes,No,DSL,No,Yes,Yes,No,No,No,Month-to-month,Yes,Mailed check,56,551,No
+Jeffery248,Female,1,No,No,56,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,97,5220,No
+Jeffery249,Female,0,No,No,8,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Mailed check,19,162,No
+Jeffery250,Male,0,No,Yes,68,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),87,5883,No
+Jeffery251,Male,0,No,No,17,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Mailed check,20,280,No
+Jeffery252,Female,0,Yes,Yes,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Two year,No,Credit card (automatic),110,8129,No
+Jeffery253,Female,0,Yes,Yes,30,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,25,790,No
+Jeffery254,Female,1,Yes,No,71,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,Two year,Yes,Credit card (automatic),96,6767,No
+Jeffery255,Female,0,No,No,1,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,25,25,Yes
+Jeffery256,Male,0,Yes,Yes,53,Yes,Yes,DSL,No,No,Yes,Yes,Yes,Yes,One year,Yes,Mailed check,79,3942,No
+Jeffery257,Female,0,No,No,15,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),25,369,No
+Jeffery258,Male,0,Yes,No,36,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95,3474,No
+Jeffery259,Female,0,Yes,No,42,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),99,4135,No
+Jeffery260,Male,0,No,No,16,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),19,327,No
+Jeffery261,Male,0,No,No,4,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,81,341,Yes
+Jeffery262,Male,0,No,Yes,66,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,1269,No
+Jeffery263,Male,0,No,No,2,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,24,38,No
+Jeffery264,Male,0,No,No,3,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,58,Yes
+Jeffery265,Male,1,No,No,9,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),99,919,Yes
+Jeffery266,Female,0,No,No,12,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),99,1121,Yes
+Jeffery267,Male,0,No,Yes,8,No,Maryville,DSL,Yes,No,No,Yes,No,Yes,Two year,Yes,Mailed check,45,343,No
+Jeffery268,Male,0,No,No,2,Yes,No,DSL,No,No,No,Yes,Yes,Yes,Month-to-month,No,Electronic check,70,132,No
+Jeffery269,Female,1,No,No,33,No,Maryville,DSL,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),59,1885,No
+Jeffery270,Female,0,Yes,No,41,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),21,876,No
+Jeffery271,Male,0,Yes,Yes,67,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),90,6373,No
+Jeffery272,Male,1,Yes,No,72,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,No,Two year,Yes,Credit card (automatic),85,6142,No
+Jeffery273,Female,0,Yes,No,49,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,101,4847,No
+Jeffery274,Male,0,Yes,No,63,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,19,1238,No
+Jeffery275,Male,0,Yes,Yes,31,Yes,Yes,DSL,No,No,No,No,No,Yes,Month-to-month,No,Bank transfer (automatic),60,1826,No
+Jeffery276,Female,0,No,No,21,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69,1493,No
+Jeffery277,Female,0,Yes,Yes,23,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,20,452,No
+Jeffery278,Female,1,Yes,No,54,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,One year,Yes,Credit card (automatic),102,5373,Yes
+Jeffery279,Male,0,No,No,26,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Credit card (automatic),21,596,No
+Jeffery280,Male,0,No,No,7,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),89,632,Yes
+Jeffery281,Male,0,No,No,63,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,One year,No,Credit card (automatic),90,5826,No
+Jeffery282,Male,0,No,Yes,1,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,75,75,Yes
+Jeffery283,Female,0,Yes,Yes,72,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Two year,No,Bank transfer (automatic),79,5731,No
+Jeffery284,Male,0,No,No,16,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,284,No
+Jeffery285,Female,0,No,No,6,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,21,113,No
+Jeffery286,Female,0,Yes,Yes,48,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,883,No
+Jeffery287,Male,0,No,No,9,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,96,829,Yes
+Jeffery288,Male,1,No,No,35,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,101,3496,Yes
+Jeffery289,Female,1,No,No,2,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,44,89,No
+Jeffery290,Male,0,Yes,No,43,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,No,One year,Yes,Bank transfer (automatic),84,3539,No
+Jeffery291,Male,0,Yes,Yes,11,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,226,No
+Jeffery292,Male,0,Yes,Yes,29,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,Two year,No,Mailed check,76,2054,No
+Jeffery293,Male,0,No,No,2,No,Maryville,DSL,No,No,No,Yes,No,No,Month-to-month,No,Bank transfer (automatic),30,76,Yes
+Jeffery294,Male,0,Yes,No,71,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),91,6404,No
+Jeffery295,Male,0,No,No,70,No,Maryville,DSL,No,No,No,Yes,No,Yes,Two year,Yes,Mailed check,40,2800,No
+Jeffery296,Female,1,Yes,No,72,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),111,7882,No
+Jeffery297,Female,0,Yes,Yes,61,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,19,1183,Yes
+Jeffery298,Female,0,No,No,61,No,Maryville,DSL,Yes,Yes,Yes,Yes,No,No,One year,No,Credit card (automatic),44,2697,No
+Jeffery299,Male,0,No,No,11,No,Maryville,DSL,No,Yes,Yes,No,No,No,Month-to-month,No,Mailed check,35,384,No
+Jeffery300,Female,0,Yes,Yes,13,Yes,No,DSL,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,56,734,Yes
+Jeffery301,Female,0,Yes,Yes,50,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),84,4164,No
+Jeffery302,Female,0,No,No,60,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Electronic check,100,5941,No
+Jeffery303,Female,0,Yes,Yes,37,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,89,3341,No
+Jeffery304,Female,0,No,Yes,24,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Bank transfer (automatic),21,532,No
+Jeffery305,Male,0,No,No,27,Yes,No,DSL,Yes,Yes,No,No,No,No,One year,No,Bank transfer (automatic),55,1478,No
+Jeffery306,Female,0,No,No,2,Yes,Yes,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Mailed check,54,117,No
+Jeffery307,Male,0,No,No,5,Yes,No,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,70,346,Yes
+Jeffery308,Male,0,No,No,1,Yes,Yes,DSL,No,No,Yes,Yes,No,No,Month-to-month,No,Mailed check,62,62,Yes
+Jeffery309,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,70,Yes
+Jeffery310,Female,0,No,Yes,12,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,105,1276,No
+Jeffery311,Female,0,No,No,26,Yes,Yes,DSL,Yes,Yes,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),70,1800,No
+Jeffery312,Female,0,Yes,No,72,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Credit card (automatic),83,5919,No
+Jeffery313,Male,0,No,No,5,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Bank transfer (automatic),21,94,No
+Jeffery314,Female,0,No,No,2,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95,197,Yes
+Jeffery315,Male,0,Yes,Yes,62,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Bank transfer (automatic),25,1476,No
+Jeffery316,Male,0,No,No,29,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),75,2244,No
+Jeffery317,Female,0,Yes,No,65,Yes,No,DSL,Yes,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,55,3673,No
+Jeffery318,Male,0,Yes,Yes,63,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,1276,No
+Jeffery319,Female,0,No,No,25,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,19,461,No
+Jeffery320,Female,1,No,No,6,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,89,568,No
+Jeffery321,Female,0,No,Yes,15,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),69,995,Yes
+Jeffery322,Female,0,Yes,Yes,4,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Electronic check,20,83,No
+Jeffery323,Female,1,No,No,32,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,74,2277,Yes
+Jeffery324,Female,0,Yes,Yes,25,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),89,2258,Yes
+Jeffery325,Male,0,Yes,No,18,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,99,1743,Yes
+Jeffery326,Male,0,No,No,1,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,24,24,Yes
+Jeffery327,Male,0,Yes,Yes,69,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Electronic check,105,7298,No
+Jeffery328,Male,0,Yes,Yes,55,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Bank transfer (automatic),86,4713,No
+Jeffery329,Male,0,Yes,Yes,31,Yes,Yes,DSL,Yes,Yes,No,Yes,No,Yes,One year,Yes,Bank transfer (automatic),75,2345,No
+Jeffery330,Female,0,No,No,2,Yes,No,DSL,No,Yes,No,Yes,No,No,Month-to-month,Yes,Credit card (automatic),55,103,Yes
+Jeffery331,Female,0,Yes,No,24,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,80,1929,No
+Jeffery332,Male,0,Yes,Yes,19,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,One year,Yes,Electronic check,101,1876,Yes
+Jeffery333,Female,0,No,No,57,Yes,No,DSL,No,Yes,Yes,Yes,Yes,No,Two year,No,Mailed check,70,3894,No
+Jeffery334,Male,0,No,No,67,Yes,No,DSL,No,No,No,Yes,No,No,Two year,No,Bank transfer (automatic),51,3260,No
+Jeffery335,Male,1,No,No,44,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,74,3122,No
+Jeffery336,Female,0,Yes,Yes,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Credit card (automatic),20,20,Yes
+Jeffery337,Female,0,Yes,No,61,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),103,6518,No
+Jeffery338,Female,0,Yes,Yes,71,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),20,1390,No
+Jeffery339,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,89,89,Yes
+Jeffery340,Male,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,20,Yes
+Jeffery341,Female,0,Yes,Yes,32,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,99,3090,No
+Jeffery342,Male,0,No,No,12,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Credit card (automatic),20,265,No
+Jeffery343,Male,0,No,No,29,No,Maryville,DSL,Yes,No,No,Yes,No,No,One year,No,Mailed check,36,1073,No
+Jeffery344,Male,0,Yes,No,45,Yes,No,DSL,Yes,Yes,Yes,No,Yes,Yes,One year,No,Bank transfer (automatic),79,3598,No
+Jeffery345,Female,0,No,No,3,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75,212,No
+Jeffery346,Male,0,Yes,No,40,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,50,2059,No
+Jeffery347,Female,0,No,No,1,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,50,50,No
+Jeffery348,Male,0,Yes,No,71,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,No,Two year,No,Credit card (automatic),74,5358,No
+Jeffery349,Male,0,No,No,11,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,76,866,No
+Jeffery350,Male,0,Yes,No,72,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,1422,No
+Jeffery351,Female,0,No,Yes,3,Yes,No,DSL,Yes,No,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),65,177,No
+Jeffery352,Male,0,No,No,50,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),20,989,No
+Jeffery353,Female,0,Yes,Yes,67,Yes,Yes,DSL,Yes,No,No,No,Yes,Yes,Two year,Yes,Electronic check,76,5229,No
+Jeffery354,Male,0,No,No,2,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,19,51,No
+Jeffery355,Male,0,No,No,6,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Bank transfer (automatic),20,131,No
+Jeffery356,Female,0,Yes,No,64,Yes,No,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,Yes,Mailed check,74,4760,No
+Jeffery357,Female,0,Yes,Yes,58,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,92,5512,No
+Jeffery358,Male,0,No,No,11,Yes,No,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,69,712,No
+Jeffery359,Male,0,Yes,Yes,63,Yes,Yes,DSL,Yes,No,Yes,Yes,No,Yes,Two year,No,Mailed check,76,4677,No
+Jeffery360,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,46,46,Yes
+Jeffery361,Female,1,No,No,8,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),100,909,No
+Jeffery362,Female,0,Yes,Yes,6,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Mailed check,94,519,No
+Jeffery363,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,71,71,Yes
+Jeffery364,Female,0,No,No,4,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,80,324,No
+Jeffery365,Male,0,No,No,66,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),114,7384,No
+Jeffery366,Female,0,No,No,6,No,Maryville,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,48,305,Yes
+Jeffery367,Male,0,Yes,No,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,No,Credit card (automatic),80,5811,No
+Jeffery368,Male,0,Yes,Yes,10,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,242,No
+Jeffery369,Female,0,Yes,Yes,20,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Bank transfer (automatic),26,507,No
+Jeffery370,Male,1,No,No,9,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,101,919,Yes
+Jeffery371,Male,0,Yes,No,70,No,Maryville,DSL,Yes,No,Yes,Yes,No,No,Two year,Yes,Credit card (automatic),39,2693,No
+Jeffery372,Female,1,Yes,No,32,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Mailed check,79,2570,No
+Jeffery373,Male,0,Yes,No,67,No,Maryville,DSL,Yes,Yes,No,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),51,3522,No
+Jeffery374,Male,1,Yes,Yes,71,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,1388,No
+Jeffery375,Male,0,No,No,31,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),99,3110,No
+Jeffery376,Male,0,Yes,No,30,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,50,1442,No
+Jeffery377,Male,1,Yes,No,66,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),107,7052,No
+Jeffery378,Female,0,Yes,No,52,Yes,No,DSL,Yes,No,Yes,No,Yes,No,One year,Yes,Mailed check,64,3411,No
+Jeffery379,Female,0,Yes,Yes,68,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),85,5608,No
+Jeffery380,Male,0,No,No,2,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,45,99,Yes
+Jeffery381,Female,1,No,No,13,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,101,1308,Yes
+Jeffery382,Male,0,No,Yes,9,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,190,No
+Jeffery383,Male,0,No,Yes,13,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,44,659,No
+Jeffery384,Female,0,Yes,Yes,10,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,221,No
+Jeffery385,Male,0,Yes,Yes,34,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),98,3410,No
+Jeffery386,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,43,43,Yes
+Jeffery387,Female,1,Yes,Yes,70,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,108,7476,No
+Jeffery388,Female,0,Yes,Yes,22,Yes,No,DSL,No,Yes,No,Yes,No,No,Month-to-month,No,Electronic check,55,1206,Yes
+Jeffery389,Female,0,No,No,60,No,Maryville,DSL,Yes,No,Yes,No,Yes,Yes,Two year,No,Electronic check,54,3237,No
+Jeffery390,Female,0,Yes,No,28,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,21,563,No
+Jeffery391,Female,0,Yes,No,26,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,26,684,No
+Jeffery392,Female,0,No,No,67,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,85,5714,No
+Jeffery393,Male,0,No,No,22,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,70,1490,No
+Jeffery394,Female,0,No,No,25,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Credit card (automatic),19,532,No
+Jeffery395,Male,0,No,No,58,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),103,6018,Yes
+Jeffery396,Female,0,No,No,11,Yes,No,Fiber optic,No,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,94,1000,No
+Jeffery397,Female,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Two year,Yes,Electronic check,106,7544,No
+Jeffery398,Female,0,No,No,44,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),88,3973,No
+Jeffery399,Male,0,Yes,Yes,58,Yes,No,DSL,No,Yes,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),75,4301,No
+Jeffery400,Female,0,Yes,Yes,41,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,No,One year,Yes,Credit card (automatic),78,3211,No
+Jeffery401,Female,0,No,No,33,Yes,Yes,DSL,Yes,No,No,Yes,No,No,One year,No,Electronic check,59,1953,No
+Jeffery402,Male,0,No,No,27,Yes,No,DSL,Yes,No,Yes,Yes,Yes,No,One year,No,Credit card (automatic),69,1927,No
+Jeffery403,Female,0,No,No,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),91,6697,No
+Jeffery404,Male,1,Yes,No,63,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Two year,No,Credit card (automatic),109,6992,No
+Jeffery405,Male,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,21,21,No
+Jeffery406,Male,0,No,No,1,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,82,82,Yes
+Jeffery407,Male,0,No,No,72,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),101,7459,No
+Jeffery408,Male,0,No,Yes,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,20,No
+Jeffery409,Male,0,No,No,9,No,Maryville,DSL,Yes,Yes,Yes,No,No,No,One year,No,Mailed check,40,373,No
+Jeffery410,Male,0,Yes,Yes,51,Yes,No,DSL,Yes,No,No,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),76,3966,No
+Jeffery411,Male,1,Yes,Yes,20,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,Yes,One year,No,Credit card (automatic),94,1818,No
+Jeffery412,Male,0,Yes,No,56,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,No,One year,Yes,Electronic check,93,5254,No
+Jeffery413,Male,0,No,No,37,No,Maryville,DSL,Yes,Yes,No,Yes,No,No,Two year,Yes,Mailed check,41,1391,No
+Jeffery414,Female,0,No,No,18,Yes,No,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,No,Electronic check,78,1359,No
+Jeffery415,Male,0,Yes,Yes,54,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,One year,Yes,Electronic check,105,5638,No
+Jeffery416,Male,0,No,No,19,Yes,No,DSL,No,Yes,No,Yes,No,Yes,One year,Yes,Bank transfer (automatic),65,1232,No
+Jeffery417,Male,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,19,19,No
+Jeffery418,Female,0,Yes,No,26,Yes,No,Fiber optic,No,No,No,Yes,No,Yes,Month-to-month,No,Credit card (automatic),86,2196,No
+Jeffery419,Female,0,No,No,69,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Two year,No,Electronic check,104,7029,No
+Jeffery420,Male,0,Yes,No,3,No,Maryville,DSL,No,Yes,No,No,No,No,Month-to-month,No,Credit card (automatic),30,94,No
+Jeffery421,Male,0,No,No,7,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,19,165,No
+Jeffery422,Female,0,Yes,Yes,9,Yes,No,DSL,Yes,No,No,No,No,No,One year,No,Mailed check,49,422,No
+Jeffery423,Male,0,Yes,Yes,50,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,108,5431,No
+Jeffery424,Female,0,No,No,17,Yes,Yes,DSL,No,No,Yes,Yes,Yes,No,Month-to-month,Yes,Mailed check,69,1108,No
+Jeffery425,Male,1,No,No,21,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),97,2030,Yes
+Jeffery426,Female,0,No,No,5,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,25,135,No
+Jeffery427,Male,0,No,No,41,Yes,Yes,DSL,No,No,Yes,No,No,Yes,One year,No,Mailed check,65,2532,No
+Jeffery428,Male,0,No,No,16,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Credit card (automatic),75,1171,No
+Jeffery429,Female,1,No,No,11,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),90,1048,Yes
+Jeffery430,Male,0,Yes,Yes,70,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,Two year,Yes,Credit card (automatic),101,6995,No
+Jeffery431,Male,0,Yes,No,68,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),25,1728,No
+Jeffery432,Female,0,Yes,Yes,70,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,24,1765,No
+Jeffery433,Female,0,Yes,No,2,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,104,243,Yes
+Jeffery434,Male,0,No,No,2,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,75,145,No
+Jeffery435,Female,0,Yes,No,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),91,6469,No
+Jeffery436,Male,0,No,No,66,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,Two year,No,Bank transfer (automatic),69,4448,No
+Jeffery437,Female,1,No,No,72,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Electronic check,112,7943,No
+Jeffery438,Female,0,No,Yes,15,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,271,No
+Jeffery439,Female,0,Yes,No,72,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Credit card (automatic),24,1776,No
+Jeffery440,Male,0,Yes,Yes,72,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Credit card (automatic),25,1791,No
+Jeffery441,Female,0,Yes,No,58,Yes,Yes,DSL,Yes,No,No,Yes,No,No,One year,Yes,Bank transfer (automatic),61,3479,No
+Jeffery442,Female,0,No,No,2,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,41,No
+Jeffery443,Female,0,Yes,No,71,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),86,6224,No
+Jeffery444,Male,0,Yes,No,41,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,80,3439,No
+Jeffery445,Female,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,135,No
+Jeffery446,Female,0,No,No,48,Yes,No,DSL,Yes,Yes,No,No,No,No,Two year,No,Credit card (automatic),56,2627,No
+Jeffery447,Female,1,Yes,Yes,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69,69,Yes
+Jeffery448,Male,0,Yes,Yes,44,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Electronic check,25,1014,No
+Jeffery449,Male,0,No,No,4,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,90,368,Yes
+Jeffery450,Female,0,Yes,Yes,55,Yes,No,Fiber optic,No,No,No,No,No,No,Two year,Yes,Credit card (automatic),69,3843,No
+Jeffery451,Male,0,Yes,Yes,29,No,Maryville,DSL,Yes,Yes,Yes,Yes,No,Yes,One year,Yes,Credit card (automatic),55,1637,No
+Jeffery452,Female,0,Yes,No,46,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,One year,Yes,Electronic check,103,4595,No
+Jeffery453,Male,0,Yes,No,8,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),86,659,No
+Jeffery454,Female,0,No,No,6,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),94,536,Yes
+Jeffery455,Female,0,No,No,29,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,19,554,No
+Jeffery456,Male,0,Yes,No,40,Yes,Yes,DSL,No,Yes,No,Yes,Yes,No,One year,No,Credit card (automatic),71,2922,No
+Jeffery457,Female,0,Yes,No,8,Yes,Yes,Fiber optic,No,No,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,90,744,No
+Jeffery458,Male,0,No,No,36,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),79,2855,No
+Jeffery459,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,44,44,Yes
+Jeffery460,Female,1,No,No,46,Yes,Yes,DSL,No,No,Yes,Yes,No,Yes,One year,Yes,Credit card (automatic),69,3255,No
+Jeffery461,Female,0,No,No,13,Yes,No,Fiber optic,No,Yes,No,No,No,No,One year,Yes,Mailed check,75,966,No
+Jeffery462,Female,0,Yes,Yes,71,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Two year,Yes,Credit card (automatic),99,7062,No
+Jeffery463,Male,0,Yes,No,47,Yes,No,DSL,No,Yes,Yes,No,Yes,Yes,Two year,No,Electronic check,74,3523,No
+Jeffery464,Female,0,No,No,15,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,320,No
+Jeffery465,Male,0,No,No,17,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,26,440,No
+Jeffery466,Female,1,No,No,28,Yes,Yes,DSL,No,Yes,Yes,Yes,No,No,Month-to-month,No,Bank transfer (automatic),64,1868,No
+Jeffery467,Male,0,Yes,Yes,40,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,809,No
+Jeffery468,Female,0,No,No,22,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,89,1908,Yes
+Jeffery469,Male,0,No,No,8,Yes,No,DSL,Yes,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,67,579,No
+Jeffery470,Male,0,Yes,Yes,50,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),104,5018,Yes
+Jeffery471,Male,0,Yes,Yes,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),90,6563,No
+Jeffery472,Male,0,No,No,47,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,No,One year,No,Bank transfer (automatic),95,4536,No
+Jeffery473,Female,0,No,No,10,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,99,1058,Yes
+Jeffery474,Male,0,No,No,52,No,Maryville,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),64,3335,No
+Jeffery475,Female,0,Yes,Yes,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),91,6652,No
+Jeffery476,Female,0,Yes,No,40,Yes,Yes,DSL,No,Yes,No,No,No,No,Month-to-month,No,Credit card (automatic),57,2379,No
+Jeffery477,Male,0,Yes,No,48,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Two year,Yes,Bank transfer (automatic),97,4473,No
+Jeffery478,Male,0,No,No,31,Yes,No,DSL,No,No,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,55,1716,Yes
+Jeffery479,Male,0,Yes,No,65,Yes,Yes,DSL,Yes,No,Yes,Yes,No,Yes,Two year,No,Bank transfer (automatic),76,4930,No
+Jeffery480,Male,0,Yes,Yes,17,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Electronic check,81,1401,Yes
+Jeffery481,Male,0,Yes,Yes,60,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,1162,No
+Jeffery482,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,81,81,No
+Jeffery483,Male,1,Yes,No,8,No,Maryville,DSL,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Mailed check,43,371,No
+Jeffery484,Male,0,Yes,No,55,Yes,No,DSL,Yes,Yes,Yes,No,No,No,Two year,No,Electronic check,59,3069,No
+Jeffery485,Male,0,Yes,Yes,67,Yes,No,DSL,Yes,No,Yes,Yes,No,No,Two year,Yes,Bank transfer (automatic),60,3954,No
+Jeffery486,Female,0,No,No,26,No,Maryville,DSL,No,No,Yes,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),44,1184,No
+Jeffery487,Male,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Mailed check,71,129,No
+Jeffery488,Male,1,No,No,21,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,104,2272,No
+Jeffery489,Male,0,Yes,Yes,4,Yes,No,DSL,No,No,No,Yes,No,Yes,Month-to-month,No,Credit card (automatic),61,230,Yes
+Jeffery490,Male,0,Yes,Yes,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),88,6463,No
+Jeffery491,Male,1,Yes,No,55,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74,4052,No
+Jeffery492,Male,0,Yes,No,51,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,One year,Yes,Credit card (automatic),96,4911,No
+Jeffery493,Male,1,No,No,8,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,75,607,Yes
+Jeffery494,Male,0,Yes,Yes,19,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,No,Electronic check,103,2013,Yes
+Jeffery495,Female,0,No,No,12,Yes,No,Fiber optic,Yes,No,No,No,Yes,No,One year,Yes,Credit card (automatic),85,979,No
+Jeffery496,Male,1,Yes,Yes,52,Yes,Yes,DSL,No,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,81,4080,No
+Jeffery497,Male,0,Yes,Yes,18,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Mailed check,95,1780,Yes
+Jeffery498,Female,0,No,No,68,Yes,Yes,DSL,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Electronic check,81,5330,No
+Jeffery499,Male,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Bank transfer (automatic),20,20,No
+Jeffery500,Male,0,Yes,No,7,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69,451,Yes
+Jeffery501,Male,0,Yes,No,43,Yes,Yes,DSL,Yes,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,80,3582,No
+Jeffery502,Female,0,Yes,Yes,45,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,21,892,No
+Jeffery503,Female,0,Yes,Yes,52,Yes,No,Fiber optic,No,Yes,Yes,Yes,No,No,Month-to-month,No,Bank transfer (automatic),86,4433,No
+Jeffery504,Female,0,Yes,No,13,Yes,No,DSL,No,No,No,No,No,No,One year,No,Electronic check,44,593,No
+Jeffery505,Female,0,No,No,14,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,50,765,No
+Jeffery506,Male,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),118,8685,Yes
+Jeffery507,Male,0,Yes,Yes,39,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),80,3183,Yes
+Jeffery508,Female,0,Yes,Yes,72,No,Maryville,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),65,4784,No
+Jeffery509,Male,0,No,No,59,No,Maryville,DSL,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,52,3006,No
+Jeffery510,Female,0,No,No,29,No,Maryville,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,31,856,Yes
+Jeffery511,Female,0,Yes,No,70,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,98,6983,No
+Jeffery512,Female,0,Yes,No,19,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,45,840,No
+Jeffery513,Male,0,No,Yes,48,Yes,Yes,DSL,Yes,No,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),79,3682,No
+Jeffery514,Male,0,Yes,Yes,0,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,26,#VALUE!,No
+Jeffery515,Male,0,Yes,Yes,67,Yes,No,DSL,Yes,No,Yes,Yes,No,Yes,Two year,No,Mailed check,68,4628,No
+Jeffery516,Male,0,Yes,Yes,3,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,No,Electronic check,90,248,No
+Jeffery517,Male,0,Yes,Yes,72,Yes,Yes,DSL,Yes,No,Yes,Yes,No,No,Two year,Yes,Credit card (automatic),67,4812,No
+Jeffery518,Female,0,Yes,No,58,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),102,5885,Yes
+Jeffery519,Female,0,Yes,No,71,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),25,1874,No
+Jeffery520,Female,0,Yes,Yes,51,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,No,One year,Yes,Mailed check,95,5000,No
+Jeffery521,Female,0,No,No,18,Yes,Yes,DSL,Yes,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,61,1156,No
+Jeffery522,Male,0,No,No,18,Yes,Yes,DSL,Yes,No,Yes,No,Yes,No,Month-to-month,No,Mailed check,70,1199,No
+Jeffery523,Female,0,No,No,2,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,21,39,Yes
+Jeffery524,Female,1,Yes,No,20,Yes,No,DSL,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,60,1259,No
+Jeffery525,Male,0,No,No,59,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Bank transfer (automatic),20,1192,No
+Jeffery526,Male,0,Yes,No,39,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Bank transfer (automatic),20,790,No
+Jeffery527,Male,1,No,No,8,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,81,586,Yes
+Jeffery528,Male,0,No,No,5,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,81,416,Yes
+Jeffery529,Male,0,No,No,28,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),18,535,No
+Jeffery530,Male,0,Yes,No,70,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,No,Two year,Yes,Credit card (automatic),88,5986,No
+Jeffery531,Male,0,No,No,53,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,25,1279,No
+Jeffery532,Female,1,No,No,2,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,No,Electronic check,90,162,Yes
+Jeffery533,Female,0,No,Yes,43,Yes,No,DSL,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,64,2737,No
+Jeffery534,Female,0,No,No,15,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,101,1457,Yes
+Jeffery535,Female,1,Yes,No,52,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,109,5648,No
+Jeffery536,Female,0,No,Yes,4,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Mailed check,87,341,Yes
+Jeffery537,Female,0,No,No,3,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,25,86,No
+Jeffery538,Female,0,Yes,Yes,28,Yes,No,Fiber optic,No,No,No,No,No,No,One year,Yes,Bank transfer (automatic),70,1992,No
+Jeffery539,Male,0,No,Yes,21,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,46,985,No
+Jeffery540,Male,0,No,Yes,53,Yes,No,DSL,Yes,Yes,No,Yes,No,No,One year,No,Credit card (automatic),63,3420,No
+Jeffery541,Male,0,No,No,64,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,No,Yes,Two year,No,Credit card (automatic),99,6549,No
+Jeffery542,Female,1,No,No,14,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),80,1058,No
+Jeffery543,Male,1,Yes,No,35,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,95,3365,No
+Jeffery544,Male,0,No,No,11,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,223,No
+Jeffery545,Male,0,No,No,2,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,48,92,Yes
+Jeffery546,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,80,80,Yes
+Jeffery547,Female,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,69,120,Yes
+Jeffery548,Male,0,Yes,Yes,28,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,No,One year,No,Bank transfer (automatic),93,2768,No
+Jeffery549,Female,0,Yes,Yes,16,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,No,Bank transfer (automatic),73,1196,No
+Jeffery550,Female,0,No,No,1,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,No,Month-to-month,No,Electronic check,92,92,Yes
+Jeffery551,Male,0,No,No,70,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),115,7711,No
+Jeffery552,Female,0,No,No,13,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),80,1029,No
+Jeffery553,Male,1,No,No,8,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,101,819,Yes
+Jeffery554,Female,0,Yes,No,59,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),109,6558,No
+Jeffery555,Female,1,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,79,79,Yes
+Jeffery556,Female,0,Yes,Yes,41,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,No,Credit card (automatic),80,3326,Yes
+Jeffery557,Male,0,Yes,No,36,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Bank transfer (automatic),21,720,No
+Jeffery558,Female,0,No,No,1,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,No,Month-to-month,Yes,Mailed check,83,83,No
+Jeffery559,Female,0,No,No,1,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),50,50,No
+Jeffery560,Female,0,Yes,Yes,4,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,21,63,No
+Jeffery561,Female,1,Yes,No,15,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,83,1258,Yes
+Jeffery562,Female,0,No,No,10,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,19,163,No
+Jeffery563,Male,0,Yes,Yes,60,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,21,1205,No
+Jeffery564,Male,0,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75,75,Yes
+Jeffery565,Male,0,No,Yes,23,No,Maryville,DSL,Yes,Yes,No,Yes,No,No,One year,No,Bank transfer (automatic),41,947,No
+Jeffery566,Male,0,No,No,4,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,21,73,No
+Jeffery567,Male,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,20,No
+Jeffery568,Female,0,Yes,No,43,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,94,4107,No
+Jeffery569,Male,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,147,No
+Jeffery570,Female,0,Yes,Yes,65,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,106,6986,Yes
+Jeffery571,Female,0,Yes,Yes,45,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,Month-to-month,No,Mailed check,81,3541,No
+Jeffery572,Male,0,Yes,Yes,35,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,687,No
+Jeffery573,Male,0,Yes,No,29,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),75,2263,No
+Jeffery574,Male,0,No,No,24,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),85,2049,No
+Jeffery575,Male,0,Yes,Yes,55,Yes,No,DSL,No,No,Yes,Yes,No,No,Two year,Yes,Credit card (automatic),55,3120,No
+Jeffery576,Male,1,Yes,Yes,66,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Credit card (automatic),79,5155,Yes
+Jeffery577,Female,0,Yes,No,61,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,106,6751,No
+Jeffery578,Female,0,Yes,Yes,65,Yes,Yes,DSL,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),79,5072,No
+Jeffery579,Male,0,No,Yes,15,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Electronic check,25,324,No
+Jeffery580,Male,0,Yes,Yes,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69,69,Yes
+Jeffery581,Male,0,No,No,25,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),74,1952,No
+Jeffery582,Male,0,No,Yes,1,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,25,25,Yes
+Jeffery583,Female,0,No,No,1,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),50,50,Yes
+Jeffery584,Female,0,No,Yes,18,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Bank transfer (automatic),20,391,Yes
+Jeffery585,Male,1,No,No,8,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,561,Yes
+Jeffery586,Male,0,No,No,18,No,Maryville,DSL,No,Yes,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),34,600,Yes
+Jeffery587,Male,1,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75,75,Yes
+Jeffery588,Male,0,No,No,39,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,One year,No,Credit card (automatic),81,3214,No
+Jeffery589,Male,0,No,No,1,Yes,Yes,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,60,60,Yes
+Jeffery590,Female,0,Yes,Yes,8,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,84,680,Yes
+Jeffery591,Male,0,No,Yes,51,Yes,No,DSL,No,No,No,Yes,No,No,One year,No,Credit card (automatic),48,2357,No
+Jeffery592,Female,0,Yes,No,57,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),109,6253,No
+Jeffery593,Male,0,No,No,52,Yes,No,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Credit card (automatic),84,4331,No
+Jeffery594,Female,0,Yes,No,72,No,Maryville,DSL,Yes,Yes,Yes,No,No,Yes,Two year,Yes,Electronic check,49,3581,No
+Jeffery595,Female,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,19,19,No
+Jeffery596,Female,0,Yes,No,72,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),110,7983,No
+Jeffery597,Male,0,No,Yes,3,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,21,61,No
+Jeffery598,Male,0,Yes,Yes,71,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),105,7288,No
+Jeffery599,Male,1,Yes,Yes,68,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,85,5684,No
+Jeffery600,Female,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,81,144,Yes
+Jeffery601,Female,0,Yes,Yes,36,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Bank transfer (automatic),19,703,No
+Jeffery602,Male,0,Yes,No,15,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,101,1504,Yes
+Jeffery603,Male,0,Yes,Yes,70,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),86,5932,No
+Jeffery604,Male,0,Yes,No,21,Yes,No,DSL,No,No,No,No,Yes,No,Month-to-month,No,Bank transfer (automatic),55,1125,No
+Jeffery605,Female,0,No,No,7,Yes,No,DSL,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,79,571,No
+Jeffery606,Female,0,No,No,16,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),75,1129,No
+Jeffery607,Female,1,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74,74,Yes
+Jeffery608,Male,0,Yes,Yes,19,Yes,No,DSL,Yes,No,No,No,No,No,One year,Yes,Bank transfer (automatic),49,956,No
+Jeffery609,Female,0,Yes,No,57,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,100,5497,No
+Jeffery610,Female,0,Yes,Yes,64,Yes,Yes,DSL,No,Yes,No,No,No,No,One year,Yes,Bank transfer (automatic),54,3400,No
+Jeffery611,Female,0,No,Yes,67,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),107,7245,No
+Jeffery612,Male,0,Yes,No,37,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Bank transfer (automatic),20,698,No
+Jeffery613,Female,0,No,No,6,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Credit card (automatic),71,434,No
+Jeffery614,Male,0,No,No,18,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,49,875,Yes
+Jeffery615,Female,0,Yes,No,2,Yes,No,DSL,Yes,No,No,No,No,Yes,Month-to-month,Yes,Mailed check,62,113,No
+Jeffery616,Female,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Bank transfer (automatic),20,20,No
+Jeffery617,Female,0,Yes,Yes,71,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Two year,No,Bank transfer (automatic),101,7031,No
+Jeffery618,Male,1,No,No,16,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,70,1043,No
+Jeffery619,Male,0,Yes,No,1,Yes,No,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95,95,Yes
+Jeffery620,Male,0,Yes,Yes,25,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Electronic check,20,411,No
+Jeffery621,Male,0,No,No,30,Yes,Yes,Fiber optic,No,No,No,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),90,2723,No
+Jeffery622,Male,1,No,No,51,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,98,4913,Yes
+Jeffery623,Female,0,Yes,No,37,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),79,2840,Yes
+Jeffery624,Female,0,No,No,1,No,Maryville,DSL,No,No,No,Yes,No,No,Month-to-month,No,Mailed check,31,31,No
+Jeffery625,Male,0,Yes,Yes,12,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,26,315,No
+Jeffery626,Male,0,Yes,Yes,38,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),85,3297,No
+Jeffery627,Female,0,Yes,No,61,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,One year,No,Bank transfer (automatic),101,6384,No
+Jeffery628,Male,1,Yes,No,70,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),90,6333,No
+Jeffery629,Male,0,No,No,68,No,Maryville,DSL,No,No,Yes,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),40,2796,No
+Jeffery630,Female,0,Yes,Yes,23,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),75,1703,No
+Jeffery631,Female,0,Yes,Yes,26,Yes,Yes,DSL,No,Yes,No,Yes,No,No,Month-to-month,Yes,Electronic check,60,1616,Yes
+Jeffery632,Male,0,Yes,No,37,Yes,Yes,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Mailed check,55,2031,No
+Jeffery633,Male,1,No,No,19,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,88,1776,Yes
+Jeffery634,Female,0,Yes,No,72,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,85,6155,No
+Jeffery635,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,80,80,Yes
+Jeffery636,Male,0,Yes,Yes,31,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,No,No,Month-to-month,No,Electronic check,89,2823,No
+Jeffery637,Female,0,No,No,41,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),98,3991,No
+Jeffery638,Female,0,Yes,No,64,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,26,1715,No
+Jeffery639,Female,0,Yes,No,55,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Two year,No,Mailed check,57,3112,No
+Jeffery640,Male,0,No,No,5,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,51,262,No
+Jeffery641,Female,0,No,No,54,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,1079,No
+Jeffery642,Male,0,No,Yes,27,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),20,553,No
+Jeffery643,Female,0,Yes,No,17,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,93,1580,No
+Jeffery644,Female,0,Yes,No,61,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,24,1418,No
+Jeffery645,Male,1,Yes,No,37,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,86,3171,Yes
+Jeffery646,Female,0,Yes,No,67,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Credit card (automatic),25,1733,No
+Jeffery647,Male,1,No,No,5,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,70,332,Yes
+Jeffery648,Male,0,No,No,63,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),109,7050,No
+Jeffery649,Female,0,Yes,Yes,2,No,Maryville,DSL,No,No,No,Yes,No,No,Month-to-month,No,Bank transfer (automatic),29,45,No
+Jeffery650,Male,0,No,Yes,54,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,One year,Yes,Electronic check,106,5827,No
+Jeffery651,Female,0,No,No,12,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),90,1052,Yes
+Jeffery652,Female,0,No,No,11,Yes,No,DSL,No,No,No,Yes,Yes,Yes,Month-to-month,No,Mailed check,71,829,No
+Jeffery653,Female,0,No,No,4,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,46,194,Yes
+Jeffery654,Female,0,No,No,7,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,151,No
+Jeffery655,Female,0,Yes,Yes,72,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),83,6043,No
+Jeffery656,Female,1,Yes,No,72,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),24,1779,No
+Jeffery657,Female,0,No,No,36,No,Maryville,DSL,Yes,No,No,No,No,No,Two year,No,Bank transfer (automatic),31,1126,No
+Jeffery658,Male,0,Yes,No,36,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,667,No
+Jeffery659,Female,1,No,No,4,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,79,293,Yes
+Jeffery660,Male,0,Yes,Yes,26,Yes,No,DSL,No,No,Yes,No,No,No,One year,No,Mailed check,50,1286,No
+Jeffery661,Female,0,No,No,26,No,Maryville,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),50,1278,No
+Jeffery662,Female,0,Yes,No,60,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,106,6411,No
+Jeffery663,Male,0,Yes,Yes,20,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,400,No
+Jeffery664,Male,0,No,No,22,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),95,2105,Yes
+Jeffery665,Male,1,Yes,No,29,Yes,No,Fiber optic,Yes,No,Yes,No,No,Yes,One year,No,Bank transfer (automatic),90,2657,No
+Jeffery666,Female,0,No,No,2,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,28,No
+Jeffery667,Male,0,Yes,Yes,40,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,One year,Yes,Electronic check,85,3356,No
+Jeffery668,Female,1,Yes,No,17,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),85,1463,Yes
+Jeffery669,Male,0,No,No,49,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,No,Electronic check,99,4921,No
+Jeffery670,Male,0,No,No,56,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,94,5125,Yes
+Jeffery671,Male,0,No,No,25,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),99,2514,No
+Jeffery672,Female,0,Yes,No,51,Yes,No,DSL,Yes,Yes,No,Yes,No,No,One year,Yes,Bank transfer (automatic),61,3145,No
+Jeffery673,Female,0,No,No,18,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,88,1639,Yes
+Jeffery674,Female,0,No,No,22,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,26,606,No
+Jeffery675,Male,0,No,Yes,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,70,70,Yes
+Jeffery676,Male,0,No,No,47,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),87,4139,No
+Jeffery677,Male,0,No,No,15,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,101,1554,Yes
+Jeffery678,Female,1,No,No,30,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,No,Credit card (automatic),92,2758,Yes
+Jeffery679,Female,0,Yes,Yes,67,No,Maryville,DSL,Yes,No,No,Yes,No,No,Two year,No,Credit card (automatic),36,2546,No
+Jeffery680,Male,0,No,No,9,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,45,431,Yes
+Jeffery681,Male,0,No,No,3,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,77,228,Yes
+Jeffery682,Female,0,Yes,Yes,64,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,One year,Yes,Electronic check,93,5981,No
+Jeffery683,Female,0,Yes,Yes,6,No,Maryville,DSL,No,Yes,Yes,Yes,No,No,Two year,No,Mailed check,41,218,No
+Jeffery684,Female,0,Yes,No,49,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,Two year,No,Credit card (automatic),107,5174,No
+Jeffery685,Female,0,Yes,No,56,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,Two year,No,Bank transfer (automatic),80,4514,No
+Jeffery686,Male,0,No,Yes,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,72,72,Yes
+Jeffery687,Female,1,Yes,No,66,No,Maryville,DSL,No,Yes,Yes,No,Yes,No,One year,No,Bank transfer (automatic),46,3027,No
+Jeffery688,Male,0,No,No,1,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,24,24,Yes
+Jeffery689,Male,0,No,No,1,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,25,25,No
+Jeffery690,Male,1,No,No,18,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,No,Month-to-month,No,Bank transfer (automatic),94,1744,No
+Jeffery691,Male,1,No,No,9,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,84,790,Yes
+Jeffery692,Male,0,No,Yes,72,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,1530,No
+Jeffery693,Male,0,Yes,Yes,72,Yes,Yes,DSL,Yes,Yes,Yes,No,No,No,Two year,No,Credit card (automatic),64,4720,No
+Jeffery694,Male,0,Yes,Yes,72,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),108,7920,No
+Jeffery695,Male,0,Yes,No,51,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),107,5499,No
+Jeffery696,Male,0,No,No,55,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,97,5284,Yes
+Jeffery697,Male,0,No,No,53,Yes,No,Fiber optic,No,Yes,No,Yes,No,No,Month-to-month,Yes,Mailed check,81,4348,No
+Jeffery698,Male,0,Yes,Yes,72,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),105,7560,No
+Jeffery699,Male,0,Yes,Yes,22,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,Yes,Mailed check,58,1272,No
+Jeffery700,Male,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,144,No
+Jeffery701,Female,0,No,No,37,No,Maryville,DSL,No,No,No,Yes,No,No,Month-to-month,No,Credit card (automatic),29,974,Yes
+Jeffery702,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Mailed check,74,74,No
+Jeffery703,Female,0,Yes,No,72,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,101,7323,No
+Jeffery704,Female,0,No,Yes,3,No,Maryville,DSL,No,Yes,No,No,No,No,Month-to-month,No,Mailed check,30,90,No
+Jeffery705,Male,0,Yes,Yes,2,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Two year,No,Mailed check,60,131,No
+Jeffery706,Male,1,No,No,20,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,90,1648,No
+Jeffery707,Female,0,No,No,2,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,76,161,Yes
+Jeffery708,Female,0,Yes,No,71,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Electronic check,90,6311,No
+Jeffery709,Male,0,No,Yes,32,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),84,2633,No
+Jeffery710,Male,0,No,No,31,Yes,Yes,Fiber optic,No,No,No,Yes,No,No,One year,No,Credit card (automatic),82,2549,No
+Jeffery711,Female,0,No,No,12,Yes,Yes,DSL,Yes,No,Yes,Yes,No,No,Month-to-month,Yes,Mailed check,62,714,Yes
+Jeffery712,Male,0,Yes,Yes,32,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,19,614,No
+Jeffery713,Male,0,Yes,No,2,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,76,152,Yes
+Jeffery714,Female,0,Yes,Yes,12,No,Maryville,DSL,Yes,No,No,Yes,No,No,One year,No,Credit card (automatic),33,445,No
+Jeffery715,Female,0,Yes,Yes,12,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,19,234,Yes
+Jeffery716,Male,0,No,No,2,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,46,81,Yes
+Jeffery717,Male,0,Yes,No,61,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,No,Two year,Yes,Electronic check,94,5638,Yes
+Jeffery718,Male,0,No,No,10,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Credit card (automatic),20,199,No
+Jeffery719,Male,0,Yes,Yes,69,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,No,Two year,Yes,Mailed check,92,6481,No
+Jeffery720,Male,0,Yes,Yes,7,No,Maryville,DSL,Yes,No,Yes,Yes,No,Yes,Two year,No,Credit card (automatic),50,306,No
+Jeffery721,Female,0,No,No,2,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,35,No
+Jeffery722,Female,0,No,No,66,Yes,No,DSL,Yes,Yes,Yes,No,No,No,Two year,Yes,Bank transfer (automatic),61,4017,No
+Jeffery723,Male,0,Yes,Yes,65,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,1293,No
+Jeffery724,Female,0,No,No,10,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,76,777,No
+Jeffery725,Male,0,Yes,Yes,43,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),79,3567,No
+Jeffery726,Female,1,No,No,24,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,460,No
+Jeffery727,Male,0,Yes,Yes,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),70,70,No
+Jeffery728,Male,0,No,No,46,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),89,4246,No
+Jeffery729,Male,0,No,Yes,22,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),89,1949,No
+Jeffery730,Female,0,Yes,No,54,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,One year,No,Bank transfer (automatic),107,5763,Yes
+Jeffery731,Female,0,No,No,3,Yes,Yes,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,60,171,No
+Jeffery732,Male,0,Yes,Yes,68,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),92,6393,No
+Jeffery733,Female,0,No,No,72,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,1567,No
+Jeffery734,Male,1,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75,75,Yes
+Jeffery735,Female,0,Yes,No,51,Yes,Yes,DSL,No,Yes,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),79,3951,No
+Jeffery736,Female,0,Yes,Yes,40,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),20,777,No
+Jeffery737,Male,0,Yes,Yes,65,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),84,5325,No
+Jeffery738,Male,1,No,No,12,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),73,828,No
+Jeffery739,Female,1,No,No,13,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,74,940,Yes
+Jeffery740,Female,0,Yes,Yes,49,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,25,1212,No
+Jeffery741,Female,1,Yes,No,65,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,106,6980,Yes
+Jeffery742,Male,0,No,No,72,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Electronic check,104,7635,No
+Jeffery743,Male,0,Yes,No,12,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,85,960,No
+Jeffery744,Male,0,No,No,8,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,45,438,Yes
+Jeffery745,Female,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),98,7016,No
+Jeffery746,Female,0,Yes,Yes,72,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Bank transfer (automatic),23,1623,No
+Jeffery747,Male,0,Yes,No,31,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,No,Electronic check,94,3020,Yes
+Jeffery748,Female,1,Yes,Yes,65,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),104,6767,No
+Jeffery749,Male,0,No,Yes,56,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Mailed check,21,1239,No
+Jeffery750,Female,0,No,No,58,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,108,6333,No
+Jeffery751,Female,1,Yes,Yes,24,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Two year,Yes,Electronic check,97,2263,No
+Jeffery752,Male,0,Yes,Yes,54,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Bank transfer (automatic),24,1231,No
+Jeffery753,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,96,96,No
+Jeffery754,Female,0,No,No,6,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,21,110,No
+Jeffery755,Female,0,No,No,8,Yes,No,DSL,No,No,Yes,Yes,No,Yes,Month-to-month,No,Mailed check,64,504,No
+Jeffery756,Male,0,No,No,4,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),45,176,No
+Jeffery757,Male,0,No,No,3,No,Maryville,DSL,Yes,No,Yes,Yes,No,No,Month-to-month,No,Mailed check,41,107,No
+Jeffery758,Female,0,No,No,43,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,92,3954,No
+Jeffery759,Male,0,No,No,53,No,Maryville,DSL,No,No,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),55,3046,No
+Jeffery760,Female,0,No,No,9,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Electronic check,20,179,No
+Jeffery761,Male,0,Yes,No,68,Yes,No,DSL,Yes,Yes,Yes,No,No,Yes,Two year,No,Bank transfer (automatic),71,4741,No
+Jeffery762,Male,0,No,Yes,19,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Credit card (automatic),24,439,No
+Jeffery763,Male,0,Yes,No,18,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95,1688,Yes
+Jeffery764,Female,0,No,No,59,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Electronic check,24,1493,No
+Jeffery765,Female,1,No,No,45,No,Maryville,DSL,No,No,No,No,No,Yes,One year,No,Electronic check,34,1597,No
+Jeffery766,Female,0,Yes,Yes,70,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),89,6293,No
+Jeffery767,Male,0,Yes,Yes,68,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,Yes,Two year,No,Bank transfer (automatic),95,6683,No
+Jeffery768,Male,1,Yes,No,33,No,Maryville,DSL,No,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,50,1751,No
+Jeffery769,Male,0,No,No,56,Yes,No,DSL,Yes,No,Yes,No,No,No,One year,No,Mailed check,53,3020,No
+Jeffery770,Male,0,Yes,No,1,Yes,No,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,85,85,Yes
+Jeffery771,Female,1,Yes,No,26,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),86,2067,No
+Jeffery772,Female,0,No,No,9,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),74,640,Yes
+Jeffery773,Male,1,Yes,Yes,8,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),80,583,Yes
+Jeffery774,Male,0,Yes,No,40,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,101,4113,Yes
+Jeffery775,Female,0,No,No,586,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),5037,1679,No
+Jeffery776,Male,0,Yes,Yes,2,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),90,186,Yes
+Jeffery777,Female,0,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,75,75,Yes
+Jeffery778,Female,0,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,76,76,Yes
+Jeffery779,Female,0,Yes,Yes,35,Yes,No,DSL,Yes,No,No,Yes,No,No,One year,Yes,Bank transfer (automatic),55,1916,No
+Jeffery780,Male,0,No,No,72,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),89,6202,No
+Jeffery781,Female,1,No,No,31,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,100,3187,Yes
+Jeffery782,Male,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,20,Yes
+Jeffery783,Male,1,Yes,No,51,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),94,4751,Yes
+Jeffery784,Male,0,Yes,Yes,49,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,No,Credit card (automatic),60,2970,No
+Jeffery785,Male,1,Yes,Yes,50,Yes,Yes,DSL,Yes,Yes,Yes,No,No,Yes,Two year,Yes,Bank transfer (automatic),75,3822,No
+Jeffery786,Female,0,No,Yes,62,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),26,1639,No
+Jeffery787,Female,1,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,70,Yes
+Jeffery788,Female,0,No,No,36,Yes,Yes,DSL,No,No,Yes,No,No,No,One year,No,Electronic check,56,1942,No
+Jeffery789,Male,0,Yes,Yes,58,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,No,One year,Yes,Credit card (automatic),95,5430,No
+Jeffery790,Female,0,Yes,No,71,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),84,5969,No
+Jeffery791,Male,1,No,No,18,Yes,Yes,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),58,965,No
+Jeffery792,Female,0,Yes,No,68,Yes,No,DSL,Yes,No,No,Yes,No,No,One year,No,Bank transfer (automatic),56,3849,No
+Jeffery793,Female,0,No,No,3,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,194,No
+Jeffery794,Female,1,Yes,No,26,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),98,2511,No
+Jeffery795,Female,1,No,No,59,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Two year,Yes,Credit card (automatic),79,4590,No
+Jeffery796,Male,0,No,No,9,No,Maryville,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,45,419,Yes
+Jeffery797,Female,0,Yes,Yes,64,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),110,6997,No
+Jeffery798,Female,0,Yes,No,71,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),25,1837,No
+Jeffery799,Male,0,Yes,No,47,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,One year,Yes,Electronic check,79,3650,No
+Jeffery800,Male,1,Yes,No,21,Yes,No,DSL,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),65,1340,No
+Jeffery801,Female,0,No,No,1,Yes,No,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,96,96,Yes
+Jeffery802,Male,1,Yes,No,59,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,No,One year,Yes,Credit card (automatic),83,4903,No
+Jeffery803,Male,0,Yes,No,71,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Electronic check,21,1540,No
+Jeffery804,Female,0,No,Yes,21,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,21,452,No
+Jeffery805,Female,0,No,No,15,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Bank transfer (automatic),20,297,Yes
+Jeffery806,Male,0,Yes,Yes,51,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,1087,No
+Jeffery807,Female,0,Yes,No,32,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,No,Bank transfer (automatic),84,2586,Yes
+Jeffery808,Female,0,Yes,No,56,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Electronic check,24,1262,No
+Jeffery809,Male,0,No,No,26,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Bank transfer (automatic),49,1237,No
+Jeffery810,Male,0,No,No,38,Yes,No,Fiber optic,No,No,No,No,No,No,One year,Yes,Bank transfer (automatic),70,2598,Yes
+Jeffery811,Female,0,Yes,Yes,66,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Two year,No,Bank transfer (automatic),109,7083,No
+Jeffery812,Female,0,Yes,No,40,Yes,Yes,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Credit card (automatic),79,3127,No
+Jeffery813,Female,0,No,No,5,Yes,Yes,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,54,284,No
+Jeffery814,Male,0,No,No,21,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,418,No
+Jeffery815,Male,1,No,No,25,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,No,Mailed check,106,2655,Yes
+Jeffery816,Male,1,No,No,9,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74,678,No
+Jeffery817,Male,0,No,No,61,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,106,6300,No
+Jeffery818,Female,0,No,Yes,21,Yes,No,DSL,Yes,No,Yes,No,No,Yes,One year,No,Mailed check,65,1337,No
+Jeffery819,Male,1,No,No,67,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),116,7840,No
+Jeffery820,Male,0,Yes,No,53,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,1110,No
+Jeffery821,Male,0,Yes,No,58,Yes,No,DSL,Yes,Yes,Yes,No,No,No,One year,No,Credit card (automatic),60,3564,Yes
+Jeffery822,Female,0,No,No,68,No,Maryville,DSL,Yes,No,Yes,Yes,No,No,Two year,No,Mailed check,39,2719,No
+Jeffery823,Male,0,Yes,Yes,44,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,26,1111,No
+Jeffery824,Female,0,No,No,9,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),75,634,No
+Jeffery825,Female,0,No,No,7,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,70,497,No
+Jeffery826,Male,0,No,Yes,71,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,No,One year,Yes,Credit card (automatic),85,6029,No
+Jeffery827,Male,0,No,No,9,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,25,190,No
+Jeffery828,Male,0,Yes,No,51,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95,4813,Yes
+Jeffery829,Male,0,No,No,22,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,25,567,No
+Jeffery830,Male,0,No,Yes,40,No,Maryville,DSL,Yes,Yes,No,Yes,No,No,One year,No,Mailed check,40,1564,No
+Jeffery831,Male,0,No,No,25,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,70,1729,No
+Jeffery832,Female,0,No,No,29,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Credit card (automatic),19,602,No
+Jeffery833,Female,0,Yes,Yes,69,Yes,Yes,DSL,Yes,No,No,Yes,No,No,Two year,No,Credit card (automatic),61,4060,No
+Jeffery834,Male,0,Yes,Yes,13,Yes,No,DSL,No,Yes,Yes,Yes,No,No,Month-to-month,No,Bank transfer (automatic),62,750,No
+Jeffery835,Female,1,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,85,85,Yes
+Jeffery836,Male,0,Yes,Yes,14,Yes,No,DSL,Yes,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,65,938,Yes
+Jeffery837,Female,1,No,No,45,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,97,4385,No
+Jeffery838,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,46,46,Yes
+Jeffery839,Male,0,No,Yes,35,Yes,No,DSL,No,No,No,Yes,Yes,Yes,One year,Yes,Mailed check,72,2495,No
+Jeffery840,Female,0,No,No,2,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,45,81,No
+Jeffery841,Male,0,No,No,29,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),99,2807,No
+Jeffery842,Male,0,Yes,Yes,66,No,Maryville,DSL,No,No,No,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),51,3365,No
+Jeffery843,Female,0,Yes,Yes,57,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,85,4845,No
+Jeffery844,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,Yes,Month-to-month,No,Mailed check,56,56,No
+Jeffery845,Female,0,No,Yes,44,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,868,No
+Jeffery846,Female,1,Yes,No,42,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),105,4599,No
+Jeffery847,Male,0,No,No,4,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,80,324,Yes
+Jeffery848,Female,0,Yes,Yes,27,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Electronic check,25,762,No
+Jeffery849,Female,0,Yes,Yes,14,Yes,Yes,DSL,No,Yes,No,Yes,Yes,Yes,Month-to-month,No,Credit card (automatic),80,1137,No
+Jeffery850,Male,1,Yes,No,68,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),80,5589,No
+Jeffery851,Male,0,Yes,Yes,29,Yes,No,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,No,Credit card (automatic),95,2649,Yes
+Jeffery852,Male,0,Yes,No,10,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,99,1038,Yes
+Jeffery853,Male,1,Yes,No,5,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),80,344,Yes
+Jeffery854,Male,0,No,No,22,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,79,1600,No
+Jeffery855,Female,0,No,No,1,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,24,24,No
+Jeffery856,Male,0,No,Yes,5,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),49,235,No
+Jeffery857,Female,0,No,No,2,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,46,106,No
+Jeffery858,Male,1,Yes,No,45,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),25,1174,No
+Jeffery859,Female,0,Yes,No,72,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),25,1830,No
+Jeffery860,Male,0,No,No,7,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,44,278,No
+Jeffery861,Male,0,Yes,Yes,61,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),98,6145,No
+Jeffery862,Female,1,No,No,38,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,100,3734,Yes
+Jeffery863,Male,1,No,No,3,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95,336,No
+Jeffery864,Male,0,No,No,24,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,90,2187,No
+Jeffery865,Male,0,Yes,Yes,22,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,420,No
+Jeffery866,Male,0,Yes,Yes,6,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,123,No
+Jeffery867,Female,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,21,21,Yes
+Jeffery868,Female,0,Yes,Yes,15,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,284,No
+Jeffery869,Female,0,Yes,Yes,51,Yes,Yes,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,81,4117,No
+Jeffery870,Female,0,Yes,Yes,18,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,357,No
+Jeffery871,Male,0,Yes,No,71,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),109,7691,Yes
+Jeffery872,Female,0,Yes,No,47,Yes,No,DSL,Yes,No,Yes,No,Yes,No,One year,Yes,Credit card (automatic),66,3021,No
+Jeffery873,Male,0,No,Yes,1,No,Maryville,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,31,31,Yes
+Jeffery874,Male,0,No,No,63,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,One year,No,Credit card (automatic),105,6591,No
+Jeffery875,Male,1,Yes,No,56,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),86,4824,No
+Jeffery876,Male,0,Yes,No,3,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Credit card (automatic),21,51,Yes
+Jeffery877,Female,0,Yes,Yes,7,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,76,554,No
+Jeffery878,Male,1,No,No,4,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,75,273,No
+Jeffery879,Female,1,No,Yes,30,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,101,2975,No
+Jeffery880,Female,0,Yes,Yes,55,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),19,1083,No
+Jeffery881,Male,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,20,Yes
+Jeffery882,Female,1,No,No,3,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,45,127,Yes
+Jeffery883,Female,0,Yes,Yes,40,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Electronic check,26,1078,No
+Jeffery884,Male,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),101,7325,No
+Jeffery885,Male,0,No,No,44,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),20,836,No
+Jeffery886,Male,0,No,No,2,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,45,75,Yes
+Jeffery887,Male,0,Yes,Yes,4,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,77,No
+Jeffery888,Female,0,No,Yes,28,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,535,No
+Jeffery889,Female,0,Yes,Yes,58,No,Maryville,DSL,No,No,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),56,3167,No
+Jeffery890,Female,0,Yes,Yes,72,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),24,1679,No
+Jeffery891,Female,0,Yes,Yes,12,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Bank transfer (automatic),19,198,No
+Jeffery892,Male,0,No,No,26,Yes,Yes,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,81,2089,Yes
+Jeffery893,Male,0,Yes,Yes,1,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,81,81,No
+Jeffery894,Female,0,Yes,Yes,28,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,50,1410,No
+Jeffery895,Male,0,Yes,Yes,72,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),26,1868,No
+Jeffery896,Female,1,Yes,No,4,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,100,348,Yes
+Jeffery897,Female,0,Yes,No,67,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,1335,No
+Jeffery898,Female,0,Yes,Yes,7,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,No,Mailed check,51,350,No
+Jeffery899,Female,0,Yes,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,21,21,No
+Jeffery900,Male,0,No,No,26,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,86,2147,No
+Jeffery901,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,46,46,No
+Jeffery902,Female,0,Yes,No,7,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,44,313,No
+Jeffery903,Male,0,No,No,37,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),105,3778,No
+Jeffery904,Male,0,Yes,No,12,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,74,741,No
+Jeffery905,Male,0,No,No,30,Yes,No,DSL,Yes,No,Yes,No,No,No,Two year,Yes,Mailed check,56,1654,No
+Jeffery906,Female,1,Yes,No,35,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),102,3453,No
+Jeffery907,Female,0,No,No,1,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,80,80,Yes
+Jeffery908,Female,0,Yes,No,25,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Bank transfer (automatic),20,508,No
+Jeffery909,Male,0,Yes,Yes,29,Yes,No,DSL,Yes,No,No,No,No,Yes,Month-to-month,Yes,Mailed check,60,1834,No
+Jeffery910,Female,0,No,No,15,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),99,1426,Yes
+Jeffery911,Female,0,No,No,34,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),74,2524,Yes
+Jeffery912,Male,0,Yes,Yes,27,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,No,Month-to-month,No,Electronic check,101,2794,No
+Jeffery913,Female,1,Yes,No,29,No,Maryville,DSL,Yes,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,45,1229,No
+Jeffery914,Female,1,Yes,No,22,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,Yes,Mailed check,64,1382,No
+Jeffery915,Female,0,Yes,Yes,12,Yes,No,DSL,No,No,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),58,741,No
+Jeffery916,Female,0,No,No,7,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74,511,Yes
+Jeffery917,Female,0,Yes,No,71,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),115,8078,No
+Jeffery918,Male,0,Yes,No,33,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),73,2447,No
+Jeffery919,Male,0,Yes,Yes,65,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),109,6938,Yes
+Jeffery920,Female,0,Yes,No,7,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),75,497,Yes
+Jeffery921,Male,1,No,No,33,No,Maryville,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,55,1804,No
+Jeffery922,Male,1,No,No,1,No,Maryville,DSL,No,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,40,40,Yes
+Jeffery923,Female,0,No,No,3,Yes,No,DSL,No,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,70,220,No
+Jeffery924,Female,0,No,No,10,Yes,No,Fiber optic,Yes,No,No,No,Yes,No,Month-to-month,Yes,Mailed check,85,832,Yes
+Jeffery925,Female,0,No,No,56,No,Maryville,DSL,Yes,Yes,Yes,Yes,No,No,Two year,No,Bank transfer (automatic),45,2560,No
+Jeffery926,Male,0,No,No,22,Yes,Yes,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Electronic check,59,1255,Yes
+Jeffery927,Female,0,Yes,Yes,62,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,111,6841,No
+Jeffery928,Male,0,No,Yes,38,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,82,3142,No
+Jeffery929,Female,1,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),115,8318,No
+Jeffery930,Male,0,No,No,10,No,Maryville,DSL,No,Yes,No,Yes,No,No,Month-to-month,No,Electronic check,36,390,No
+Jeffery931,Male,1,No,No,15,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,74,1074,Yes
+Jeffery932,Male,0,No,No,21,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Credit card (automatic),21,403,No
+Jeffery933,Female,0,Yes,No,18,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Mailed check,50,909,No
+Jeffery934,Female,0,No,No,6,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,100,548,Yes
+Jeffery935,Male,0,Yes,Yes,66,No,Maryville,DSL,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Credit card (automatic),57,3708,No
+Jeffery936,Male,0,No,No,24,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),100,2405,No
+Jeffery937,Male,0,No,No,37,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,No,Bank transfer (automatic),99,3476,Yes
+Jeffery938,Male,0,Yes,No,72,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),86,6152,No
+Jeffery939,Female,1,No,No,13,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,97,1236,No
+Jeffery940,Male,0,Yes,No,34,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,101,3527,No
+Jeffery941,Male,0,Yes,Yes,52,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),93,4632,No
+Jeffery942,Female,0,No,No,5,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,94,487,Yes
+Jeffery943,Female,0,No,No,29,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),101,2879,No
+Jeffery944,Male,0,No,No,24,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,96,2122,Yes
+Jeffery945,Female,0,No,No,6,No,Maryville,DSL,Yes,Yes,No,Yes,No,Yes,Month-to-month,No,Credit card (automatic),51,308,No
+Jeffery946,Female,0,No,No,2,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,19,44,No
+Jeffery947,Male,0,Yes,Yes,71,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,1396,No
+Jeffery948,Female,0,No,No,2,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,76,143,Yes
+Jeffery949,Female,0,No,Yes,31,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),87,2697,Yes
+Jeffery950,Male,0,No,No,41,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,74,3089,No
+Jeffery951,Female,1,No,No,9,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,84,763,Yes
+Jeffery952,Female,0,No,No,60,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,25,1505,No
+Jeffery953,Female,0,Yes,Yes,8,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,94,777,Yes
+Jeffery954,Male,0,No,No,66,No,Maryville,DSL,No,No,No,Yes,No,No,One year,No,Credit card (automatic),29,1983,No
+Jeffery955,Male,0,Yes,No,10,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,738,Yes
+Jeffery956,Female,0,No,No,71,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,119,8478,No
+Jeffery957,Male,0,No,No,9,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),96,827,No
+Jeffery958,Male,0,No,No,67,No,Maryville,DSL,Yes,No,Yes,Yes,Yes,No,One year,Yes,Bank transfer (automatic),49,3321,No
+Jeffery959,Male,1,No,Yes,38,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Mailed check,80,3163,No
+Jeffery960,Male,1,Yes,No,1,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95,95,Yes
+Jeffery961,Male,0,No,No,32,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Bank transfer (automatic),20,614,No
+Jeffery962,Male,0,No,Yes,39,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Two year,No,Mailed check,101,3895,No
+Jeffery963,Male,0,No,No,1,Yes,No,DSL,No,No,Yes,No,No,No,Month-to-month,No,Mailed check,51,51,Yes
+Jeffery964,Male,0,No,No,17,Yes,No,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,94,1626,Yes
+Jeffery965,Male,0,No,No,1,Yes,No,DSL,No,No,Yes,Yes,No,No,Month-to-month,No,Mailed check,55,55,No
+Jeffery966,Female,1,Yes,No,32,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,93,2931,Yes
+Jeffery967,Female,1,No,No,15,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,No,Electronic check,90,1425,Yes
+Jeffery968,Female,1,No,No,1,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,25,25,Yes
+Jeffery969,Female,0,No,Yes,15,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,One year,No,Credit card (automatic),66,1010,No
+Jeffery970,Male,0,No,No,52,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,Two year,Yes,Credit card (automatic),89,4578,No
+Jeffery971,Male,0,Yes,Yes,71,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Two year,No,Electronic check,106,7406,No
+Jeffery972,Female,0,Yes,Yes,68,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),88,6162,No
+Jeffery973,Male,0,Yes,Yes,2,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,35,No
+Jeffery974,Male,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Credit card (automatic),21,21,No
+Jeffery975,Female,0,No,No,31,No,Maryville,DSL,Yes,Yes,No,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),50,1520,No
+Jeffery976,Female,0,Yes,Yes,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Electronic check,20,20,No
+Jeffery977,Male,0,Yes,No,45,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,No,Bank transfer (automatic),81,3776,No
+Jeffery978,Male,0,Yes,No,58,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,No,Credit card (automatic),100,5681,No
+Jeffery979,Male,0,No,Yes,62,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,24,1413,No
+Jeffery980,Female,0,No,No,5,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,84,425,No
+Jeffery981,Female,0,Yes,Yes,35,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,20,739,No
+Jeffery982,Male,1,Yes,No,58,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,99,5813,Yes
+Jeffery983,Male,1,Yes,No,66,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),100,6872,Yes
+Jeffery984,Male,1,Yes,No,12,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,80,950,Yes
+Jeffery985,Male,0,No,No,16,No,Maryville,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Mailed check,55,916,No
+Jeffery986,Male,0,Yes,No,51,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,112,5720,No
+Jeffery987,Female,0,Yes,No,10,Yes,No,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),68,653,No
+Jeffery988,Male,1,Yes,No,14,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,229,No
+Jeffery989,Female,0,Yes,No,55,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),78,4266,No
+Jeffery990,Male,0,Yes,Yes,72,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,26,1851,No
+Jeffery991,Female,0,No,No,1,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),25,25,No
+Jeffery992,Female,0,No,No,9,Yes,No,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,No,Electronic check,81,654,No
+Jeffery993,Male,0,No,No,65,Yes,Yes,DSL,No,Yes,Yes,Yes,No,Yes,Two year,Yes,Credit card (automatic),74,4806,No
+Jeffery994,Female,0,Yes,Yes,72,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),86,6111,No
+Jeffery995,Female,1,No,No,44,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,One year,No,Credit card (automatic),89,3991,No
+Jeffery996,Male,0,Yes,Yes,13,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,73,930,No
+Jeffery997,Female,0,Yes,No,21,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94,1948,No
+Jeffery998,Female,0,No,No,2,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,80,152,No
+Jeffery999,Female,0,No,No,50,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),19,1024,No
