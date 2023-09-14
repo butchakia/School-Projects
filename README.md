@@ -1,1 +1,1 @@
-This branches contents covers programming with RDDs, tuning and debugging Spark applications, Spark SQL, Spark streaming, and machine learning with MLlib. It demonstrates my ability to use tools quickly to tackle big data analysis problems on one machine or hundreds. 
+This branch's contents covers programming with RDDs, tuning and debugging Spark applications, Spark SQL, Spark streaming, and machine learning with MLlib. It demonstrates my ability to use tools quickly to tackle big data analysis problems on one machine or hundreds. 
